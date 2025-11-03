@@ -1,0 +1,6 @@
+﻿PatientID,TestType,Result,Date,LabLocation
+101,Blood,Normal,01/10/2025,Southampton
+102,Urine,Abnormal,02/10/2025,Leeds
+103,Blood,Abnormal,03/10/2025,Manchester
+104,Urine,,04/10/2025,Bristol
+105,Blood,Normal,,Bath
